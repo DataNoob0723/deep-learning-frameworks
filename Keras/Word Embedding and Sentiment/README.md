@@ -1,1 +1,2 @@
 * The training and testing data sets can be downloaded here: [IMDB Sentiment Data](https://github.com/DataNoob0723/Movie_Data_Analysis/blob/master/imdb_sentiment_data.zip).
+* The Glove Vectors file can be downloaded here: [glove.6B.50d](https://github.com/DataNoob0723/deep-learning-ai-hws/blob/master/5%20-%20Sequence%20Models/Week%202/Programming%20Assignments/2%20-%20Emojify/data/glove.6B.50d.txt).
